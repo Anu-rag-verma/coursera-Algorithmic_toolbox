@@ -1,3 +1,3 @@
 # coursera-data-structure-
-# coursera course :: algorithmic toolbox
-# Solution for week1 to week6.
+coursera course :: algorithmic toolbox
+Solution for week1 to week6.
